@@ -1,0 +1,408 @@
+{
+  "contact": {
+    "phone": "+1 512 763 9757",
+    "email": "drsnell711@gmail.com",
+    "website": "https://DanielSnell.dev",
+    "location": "Austin, Texas"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Growth",
+          "percent": 100
+        },
+        {
+          "name": "Lead Generation",
+          "percent": 90
+        },
+        {
+          "name": "Content Strategy",
+          "percent": 96
+        },
+        {
+          "name": "Techncial SEO",
+          "percent": 95
+        },
+        {
+          "name": "Product Marketing",
+          "percent": 99
+        },
+        {
+          "name": "Paid Advertising",
+          "percent": 91
+        },
+        {
+          "name": "Mobile/Web App Development",
+          "percent": 75
+        },
+        {
+          "name": "Product Management",
+          "percent": 85
+        },
+        {
+          "name": "Backend Development",
+          "percent": 93
+        },
+        {
+          "name": "Data Science",
+          "percent": 65
+        },
+        {
+          "name": "UI/UX",
+          "percent": 80
+        },
+        {
+          "name": "Team Leadership",
+          "percent": 90
+        },
+        {
+          "name": "Remote Management",
+          "percent": 80
+        },
+        {
+          "name": "Reporting & Analytics",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 95
+        },
+        {
+          "name": "PHP",
+          "percent": 90
+        },
+        {
+          "name": "Kotlin",
+          "percent": 60
+        },
+        {
+          "name": "Dart",
+          "percent": 75
+        },
+        {
+          "name": "Elixir",
+          "percent": 88
+        },
+        {
+          "name": "Python",
+          "percent": 75
+        },
+        {
+          "name": "Typescript",
+          "percent": 85
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "Flutter"
+        },
+        {
+          "name": "React Native"
+        },
+        {
+          "name": "Vue"
+        },
+        {
+          "name": "Spring"
+        },
+        {
+          "name": "Next"
+        },
+        {
+          "name": "Electron"
+        },
+        {
+          "name": "Node"
+        },
+        {
+          "name": "WordPress"
+        },
+        {
+          "name": "Express"
+        },
+        {
+          "name": "Gatsby"
+        },
+        {
+          "name": "Apollo"
+        },
+        {
+          "name": "Cypress"
+        },
+        {
+          "name": "Selenium"
+        }
+      ]
+    },
+
+    {
+      "title": "Favorite Technologies",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Hubspot"
+        },
+        {
+          "name": "NiftyPM"
+        },
+        {
+          "name": "Intercom"
+        },
+        {
+          "name": "Segment"
+        },
+        {
+          "name": "Google Analytics"
+        },
+        {
+          "name": "Mixpanel"
+        },
+        {
+          "name": "AHrefs"
+        },
+        {
+          "name": "SurferSEO"
+        },
+        {
+          "name": "SEMRush"
+        },
+        {
+          "name": "Hunter"
+        },
+        {
+          "name": "Elementor"
+        },
+        {
+          "name": "Styled Components"
+        },
+        {
+          "name": "Google GCP"
+        },
+        {
+          "name": "HotJar"
+        },
+        {
+          "name": "Builtwith"
+        },
+        {
+          "name": "Puppeteer"
+        },
+        { "name": "CheerioJS" }
+      ]
+    },
+    {
+      "title": "Consulting Clients",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Shipt"
+        },
+        {
+          "name": "Doordash"
+        },
+        {
+          "name": "Wonderschool"
+        },
+        {
+          "name": "Heroku"
+        },
+        {
+          "name": "ShareThis"
+        },
+        {
+          "name": "CaseText"
+        },
+        {
+          "name": "ShipSticks"
+        },
+        {
+          "name": "Hotel Tonight"
+        },
+        {
+          "name": "Crunchbase"
+        },
+        {
+          "name": "Angel List"
+        },
+        {
+          "name": "Crunchbase"
+        },
+        {
+          "name": "Steady"
+        },
+        {
+          "name": "Format"
+        },
+        {
+          "name": "Advisory Cloud"
+        },
+        {
+          "name": "When I Work"
+        },
+        {
+          "name": "Salesforce"
+        },
+        {
+          "name": "Trepic"
+        },
+        {
+          "name": "Tony Robbins"
+        },
+        {
+          "name": "IDWeb Studios"
+        },
+        {
+          "name": "Trepic"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "Firebase"
+        },
+        {
+          "name": "Elastic Search"
+        },
+        {
+          "name": "MariaDB"
+        }
+      ]
+    }
+  ],
+  "summary": "I embarked into the online world 10+ years ago starting out as a web developer. Over the years, I have crafted true mastery around blending skills in-order to achieve high growth outcomes. I primarily focus on Product Growth, MVP planning and building, Product Management, and User Experience. I have a background predominately in Design, Engineering, Sales, and Marketing. I enjoy collaborative enviroments that look to push the boundry and that are open to new ideas. My experience has been focused on around SaaS, Mobile, and eCommerce.",
+  "experience": [
+    {
+      "role": "Consultant",
+      "company": "Daniel Snell Consulting",
+      "description": "I help companies establish Growth throughout the funnel using Engineering, User Experience, Sales Tactics, Customer Success workflows, and Marketing Strategy.",
+      "start": "01/2008",
+      "end": ""
+    },
+    {
+      "role": "Head Of Engineer & Intrim Head Of Growth",
+      "company": "ThisWayGlobal",
+      "description": "ThisWay is a diverse matching platform in the HR Tech Space. I have assisted their team with build from start to finish 4 products that have gone to market successfully, which has lead to exponential revenue growth and multiple raises accomplished, including a 2M+ raise during COVID on Wefunder.",
+      "start": "08/2018",
+      "end": ""
+    },
+    {
+      "role": "Growth & Engineering Consultant",
+      "company": "WayWiser",
+      "description": "WayWiser is a community for senior living homes, their mission is focused on bring families closer together with loved ones. During my time with WayWiser I established 2 commerical MVPs which attributed to the sale of their first 500+ resident home deal which kicked off their revenue generation. I am currently leading their Product Management and Engineering team for thier Mobile Application, Web Application, and backend architecture.",
+      "start": "08/2018",
+      "end": ""
+    },
+    {
+      "role": "Mobile Growth Ambassador",
+      "company": "Mobile Action - Mobile Data Intelligence",
+      "description": "Mobile Action is focused on helping Mobile Application teams growth their apps through App Store Optimization and Competitor Analysis. I joined the team as an ambassador for the community after being identified as a top power user and partner. My relationship with Mobile Action consist of community management, growth advice, and onboarding new partners into their network. I serve as an evangelist for the product, which has included successful Product Hunt launches, partner growth, customer growth, and increased retention over the years.",
+      "start": "08/2016",
+      "end": ""
+    },
+    {
+      "role": "Head Of Growth",
+      "company": "Golden Volunteer",
+      "description": "Golden Volunteer is the all-in-one volunteer solution available on web / android / ios. I was the first marketing hire and Head Of Growth. During my time, we proceeded to increase their B2B user base from 125 companies to over 5600 in less than 9 months. I also increased daily downloads on IOS and Android by 3200% within 18 months organically. My efforts resulted in multiple rounds raised and a prospering team and company.",
+      "start": "09/2016",
+      "end": "08/2018"
+    },
+    {
+      "role": "Head Of Growth & Engineering",
+      "company": "Tactical Distirbutors",
+      "description": "Tactical Distirbutors is one of the leading online Tactical Retailers. During my time, I established a complete brand revamp, new eCommerce platform, and implemented paid and organic strategies that left annual sales by 5x in less than 24 months. During this period, my efforts reduced their monthly site maintenance and hosting by over 85%.",
+      "start": "10/2015",
+      "end": "04/2017"
+    },
+    {
+      "role": "Growth & Engineering Consultant",
+      "company": "Shopify",
+      "description": "Shopify is the worlds leading eCommerce platform. I joined the team pre-Shopify Plus. I was tasked with establishing scalable and repeatable growth tactics for driving the first wave of Shopify Plus customers. During my time, I helped recruit the bedrock of their partnership program as well as the first wave of Shopify Plus eCommerce brands. During my time I also consulted with the partner development team for their mobile SDK that was released in 2015.",
+      "start": "01/2012",
+      "end": "01/2015"
+    }
+  ],
+  "social": [
+    {
+      "service": "medium",
+      "url": "https://medium.com/@SavvyHustler"
+    },
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/thegrowthguy/"
+    },
+    {
+      "service": "twitter",
+      "url": "https://twitter.com/SavvyHustlers"
+    },
+    {
+      "service": "angellist",
+      "url": "https://angel.co/u/daniel-r-snell-1"
+    }
+  ],
+  "role": "Growth Engineer & Product Manager",
+
+  "fullname": "Daniel R. Snell",
+  "Consulting Clients": [
+    {
+      "name": "Shipt"
+    },
+    {
+      "name": "Doordash"
+    },
+    {
+      "name": "Wonderschool"
+    },
+    {
+      "name": "Heroku"
+    },
+    {
+      "name": "ShareThis"
+    },
+    {
+      "name": "Doordash"
+    },
+    {
+      "name": "CaseText"
+    },
+    {
+      "name": "ShipSticks"
+    },
+    {
+      "name": "Hotel Tonight"
+    },
+    {
+      "name": "Crunchbase"
+    },
+    {
+      "name": "Angel List"
+    },
+    {
+      "name": "Avantlink"
+    }
+  ]
+}
